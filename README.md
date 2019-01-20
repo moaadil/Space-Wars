@@ -1,3 +1,3 @@
-# Space-Wars
+# SpaceWars!
 
 Basic Implementation of the popular game in python using the turtle library .
